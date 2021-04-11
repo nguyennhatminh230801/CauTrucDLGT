@@ -84,8 +84,6 @@ TRO Search(TRO L, MonHoc X)
     return Q1;
 }
 
-
-
 void PrintList(TRO L)
 {
     TRO Q = L;
